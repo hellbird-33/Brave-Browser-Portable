@@ -232,4 +232,4 @@ Brave Browser Portable is available as a full free version with all features and
 Elevate your browsing experience with Brave Browser Portable — the perfect blend of speed, privacy, and portability. Download now and start browsing smarter!
 
 ---
-**Last updated:** 2026-10-02 23:34:27 UTC
+**Last updated:** 2026-10-03 04:04:53 UTC
